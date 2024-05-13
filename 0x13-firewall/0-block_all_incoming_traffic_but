@@ -2,7 +2,7 @@
 sudo apt -y install ufw
 
 # If ufw is not active, you can enable it by running:
-suo ufw enable
+sudo ufw enable
 
 # Allow incoming traffic on TCP ports 22, 443, and 80 by running:
 
